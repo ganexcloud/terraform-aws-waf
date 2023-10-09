@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.1.0](https://github.com/ganexcloud/terraform-aws-waf/compare/v2.0.2...v2.1.0) (2023-10-09)
+
+
+### Features
+
+* update main.tf ([b71f1e5](https://github.com/ganexcloud/terraform-aws-waf/commit/b71f1e5f65c8b6d298ee8dc1e7dc6430bc2eb211))
+* Updating main.tf ([a21738e](https://github.com/ganexcloud/terraform-aws-waf/commit/a21738e89724a7ea67e834da97eb4101632dbb9b))
+* updating version ([cccd6c5](https://github.com/ganexcloud/terraform-aws-waf/commit/cccd6c5564fb7c0c7d7c895ff51629ee15d1956b))
+* Updating version.tf ([409b961](https://github.com/ganexcloud/terraform-aws-waf/commit/409b961e9cd4fb3a8f530f2e1f799899892b6911))
+
 ### [2.0.2](https://github.com/ganexcloud/terraform-aws-waf/compare/v2.0.1...v2.0.2) (2023-10-06)
 
 
